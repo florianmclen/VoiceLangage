@@ -2,6 +2,8 @@
 
 **Changeur de voix en temps réel pour Windows** : 143 voix, une soundboard qui accepte aussi le son de tes vidéos, et des raccourcis clavier qui marchent aussi en jeu. Ta voix transformée part directement dans Discord, tes jeux ou OBS.
 
+💬 **Rejoins le Discord** : [discord.gg/eEGwcSsahb](https://discord.gg/eEGwcSsahb) (nouveautés, aide et idées de voix).
+
 ![Aperçu de VoiceLangage](captures/apercu.png)
 
 ## Télécharger
@@ -55,6 +57,8 @@ Pour passer en version complète, demande une **clé d'activation** à l'auteur.
 | Au choix | Chaque voix et chaque son peut avoir son propre raccourci (« Définir un raccourci ») |
 
 ## Problèmes fréquents
+
+Une question ? Pose-la dans le salon **#aide** du [Discord](https://discord.gg/eEGwcSsahb).
 
 - **Personne ne m'entend** : vérifie que Discord utilise bien « CABLE Output » comme micro, et que le bandeau « Ton micro est coupé » n'apparaît pas.
 - **Léger décalage quand je m'écoute** : c'est normal, environ 90 ms. Le mode « Faible latence » (Paramètres) le réduit.
